@@ -28,7 +28,7 @@ import modelo.MotorHome;
 
 /**
  *
- * @author Fco. Javier Jiménez Soler.
+ * @author Fco. Javier Jiménez Soler .
  */
 public class VistaControlador implements Initializable {
 
